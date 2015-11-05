@@ -28,4 +28,13 @@ original id so you can go back to it.
 To copy, highlight from end to front press <ctrl> c Repeat going front to end.  type what you want and press right 
 button to paste.
 
+Process for making changes:
+Assuming repository is created and your files are in it.
+Edit file and save changes.
+git add <file>
+git diff    (*to make sure all is ok *)
+git commit -m "message summarizing whatever you did"
+
+To create a new branch and switch to it immediately:
+git checkout -b <new branch name>
 
