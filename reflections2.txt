@@ -7,4 +7,29 @@ repository?
 It's a temporary area.
 What value do you think it offers?  Isolates changes
 
+The following will compare changes in files in the working area
+git diff
+
+run the following before doing a commit to do double check:
+git diff --staged
+
+The following command will discard and changes to files in the working 
+directory and staging area.  Be careful, You can't get changes back.
+git reset --hard
+
+How can you use the staging area to make sure you have one commit 
+per logical change?  Do a get diff and check what changes you are committing.
+
+What are some situations when branches would be helpful in keeping 
+your history organized?  How would branches help?
+If you want to work on a new part of a program, but let the original keep going,
+maybe being updated by someone else.  It would keep the new part isolated,
+so it wouldn't step on anything.
+
+How do the diagrams help you visualize the branch structure?
+You can see the linkages easily.
+
+
+
+
 
