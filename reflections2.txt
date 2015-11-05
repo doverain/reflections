@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 You create an area where git can work and track changes.  To isolate your 
 files from others.  To better manage effects of changes.
 
+How is the staging area different from the working directory and the 
+repository?
+It's a temporary area.
+What value do you think it offers?  Isolates changes
+
+
