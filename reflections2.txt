@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+You create an area where git can work and track changes.  To isolate your 
+files from others.  To better manage effects of changes.
+
