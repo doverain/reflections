@@ -29,6 +29,11 @@ so it wouldn't step on anything.
 How do the diagrams help you visualize the branch structure?
 You can see the linkages easily.
 
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+You get one program with the changes from two branches.  You can easily see 
+which change areas become one.
+
 
 
 
