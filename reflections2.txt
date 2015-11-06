@@ -34,6 +34,9 @@ the diagram the way we do?
 You get one program with the changes from two branches.  You can easily see 
 which change areas become one.
 
+What are the pros and cons of Git's automatic merging vs. always doing 
+merges manually?
+Faster
 
 
 
